@@ -280,7 +280,7 @@ function Library.xova()
 	local Main = Instance.new("Frame")
 	local MainUICorner = Instance.new("UICorner")
 	local Topbar = Instance.new("Frame")
-	local Logo = Instance.new("ImageButton")
+	local  = Instance.new("ImageButton")
 	local Title = Instance.new("TextLabel")
 	local Description = Instance.new("TextLabel")
 	local Scrollbar = Instance.new("Frame")
@@ -393,7 +393,7 @@ function Library.xova()
 	Logo.BackgroundTransparency = 1.000
 	Logo.Position = UDim2.new(0.0439999998, 0, 0.5, 0)
 	Logo.Size = UDim2.new(0, 35, 0, 35)
-	Logo.Image = "rbxassetid://14867090374"
+	Logo.Image = "rbxassetid://14867133130"
 
 	Title.Name = "Title"
 	Title.Parent = Topbar
